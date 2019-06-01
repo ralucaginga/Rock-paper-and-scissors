@@ -1,0 +1,20 @@
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\bin\Debug\Piatra, hartie, foarfeca.exe.config
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\bin\Debug\Piatra, hartie, foarfeca.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\bin\Debug\Piatra, hartie, foarfeca.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra__hartie__foarfeca.Form1.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra__hartie__foarfeca.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\bin\Debug\Piatra, hartie, foarfeca.exe.config
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\bin\Debug\Piatra, hartie, foarfeca.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\bin\Debug\Piatra, hartie, foarfeca.pdb
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra__hartie__foarfeca.Form1.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra__hartie__foarfeca.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.exe
+C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C#\Piatra, hartie, foarfeca\Piatra, hartie, foarfeca\obj\Debug\Piatra, hartie, foarfeca.pdb
